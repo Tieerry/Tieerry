@@ -20,6 +20,14 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />  
 </div><br/>
 
+<details>
+  <summary>💬 Contact</summary>
+   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <string>Tieerry#0800</string>
+  
+   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+  <string>Tieerry</string> </br>
+</details> 
 
 ### Latest videos:
 <br/>
