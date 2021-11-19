@@ -7,6 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
 
 ![Tieerry GitHub stats](https://github-readme-stats.vercel.app/api?username=tieerry&show_icons=true&theme=tokyonight&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## Technologies I use in my day
 
@@ -29,7 +30,7 @@
   <string>Tieerry</string> </br>
 </details> 
 
-  ![Snake animation](https://github.com/tieerry/tieerry/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### Latest videos:
 <br/>
