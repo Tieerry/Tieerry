@@ -23,7 +23,7 @@
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
   <string>Tieerry#0800</string>
   
-   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://pt.wikipedia.org/wiki/Ficheiro:Instagram_icon.png"/>
   <string>Tieerry</string> </br>
 </details> 
 
