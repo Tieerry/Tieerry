@@ -24,11 +24,7 @@
   <string>Tieerry#0800</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/>
-  <string>Tieerry</string> </br>
+  <string>Tieerryy</string> </br>
 </details> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-### Latest videos:
 <br/>
 
